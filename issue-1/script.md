@@ -1,6 +1,6 @@
 ### Arco Issue 1
 
-#### We're Here to Talk About Blame
+#### We're Here to Talk About Blame (draft 1.1)
 
 ###### By David Waugh
 
