@@ -1,4 +1,4 @@
-# arco
+# Arco
 
 ### Summary
 
@@ -11,7 +11,7 @@ The success of this project relies on attracting talented and committed artists 
 
 To launch the art production side of this project, a budget of $2500 is available (from self-funding) to be split among anybody that can contribute to the successful completion of the first issue, as per [THE SCRIPT](..//master/issue-1/script.md).
 
-Use the social links below to get in touch with questions, for more details about applying, or to submit work for consideration.  While portfolio work will be carefully considered, we need to see something from the *Arco* world, either in the prescribed style (or something better), to understand what you will bring to the project.  Rough work is definitely fine; our art team can extrapolate talent from a sample.
+Use the social links below to get in touch with questions, for more details about applying, or to submit work for consideration.  While portfolio work will be carefully considered, we need to see something from the *Arco* world, either in the prescribed style or something better, to understand what you will bring to the project.  Rough work is definitely fine; our art team can extrapolate talent from a sample.
 
 
 ### Contributors and Available Roles
